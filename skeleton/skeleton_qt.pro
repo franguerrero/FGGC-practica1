@@ -4,6 +4,7 @@ DEFINES = WINDOWS
 HEADERS += \
   colors.h \
   basic_object3d.h \
+  cube.h \
   object3d.h \
   axis.h \
   tetrahedron.h \
@@ -12,6 +13,7 @@ HEADERS += \
 
 SOURCES += \
   basic_object3d.cc \
+  cube.cc \
   object3d.cc \
   axis.cc \
   tetrahedron.cc \

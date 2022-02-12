@@ -61,3 +61,6 @@ skeleton/Makefile
 skeleton/Makefile.Debug
 skeleton/Makefile.Release
 skeleton/.qmake.stash
+skeleton/object_script.skeleton_qt.Debug
+skeleton/object_script.skeleton_qt.Release
+skeleton/debug/cube.o

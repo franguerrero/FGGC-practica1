@@ -18,6 +18,7 @@
 #include "colors.h"
 #include "axis.h"
 #include "tetrahedron.h"
+#include "cube.h"
 
 
 namespace _gl_widget_ne {
@@ -70,6 +71,7 @@ private:
 
   _axis Axis;
   _tetrahedron Tetrahedron;
+  _cube Cube;
 
   _gl_widget_ne::_object Object;
 
